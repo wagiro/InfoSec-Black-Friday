@@ -48,6 +48,11 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 ## Professional Services
 
 ## Tools
+**Burp Bounty Pro** (Burp Suite Marketplace App) annual license \
+https://bountysecurity.ai \
+$20 off from $79 to $59 (NO COUPON REQUIRED)\
+Deal starts: 20th November \
+Deal ends: 30th November
 
 ## Online Courses & Training
 
