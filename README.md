@@ -1,7 +1,7 @@
 
 # InfoSec Black Friday Deals ~ "Honor of 0x90n" 2025 Edition
 
-##This is a fork of 0x90n’s work. I hope he is doing well — therefore I am continuing his text here.
+## This is a fork of 0x90n’s work. I hope he is doing well — therefore I am continuing his text here.
 
 All the deals for InfoSec related software/tools this coming Black Friday. 
 
@@ -16,10 +16,6 @@ The below deals have either announced a deal, highly expected, or shared through
 - All USD
 - All end times in UTC
 - DYOR and AYOR: I try my best to vet all links for legitimacy, but there's always a chance something slips through
-
-## VENDORS
-
-I have created a comprehensive guide of lessons learned for all the years of putting together this list. If you'd like a copy, please get in touch via mike@monnik.io
 
 ## FAQ
 
