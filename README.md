@@ -57,6 +57,13 @@ https://www.practical-devsecops.com/black-friday/ \
 Deal ends: 7th December 2025
 
 
+## Tools
+
+**FullStro** - P A Multi-Channel Ecommerce Automation :see_no_evil: :new: \
+http://fullstro.com/black-friday-deals/ 
+70% off all plans \
+Deal valid: 16th November - 6rd December
+
 
 -----------------------------------------------------------------------------------------
 
