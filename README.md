@@ -39,7 +39,6 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 *Disclaimer: No affiliate links. I have included my own, paid and other discount codes sent in directly by DM/Pigeon/Smoke signals.
 
-By popular request - If this list saved you any dollaridoos, you can buy me a no-obligation coffee: https://buymeacoffee.com/securitymeta
 
 -----------------------------------------------------------------------------------------
 
