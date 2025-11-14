@@ -42,7 +42,19 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 -----------------------------------------------------------------------------------------
 
-!!!Placeholder
+## Online Courses & Training
+
+**AI Security - Professional Course**, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more \
+https://www.practical-devsecops.com/certified-ai-security-professional \
+15% off ($150 USD), auto-applied at checkout \
+(Enroll Now and Study Later) \
+Deal ends: 7th December 2025
+
+**Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
+https://www.practical-devsecops.com/black-friday/ \
+15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
+(Enroll Now and Study Later) \
+Deal ends: 7th December 2025
 
 
 
