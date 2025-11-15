@@ -64,6 +64,10 @@ http://fullstro.com/black-friday-deals/
 70% off all plans \
 Deal valid: 16th November - 6rd December
 
+**PortDroid** - Port Scanner and Swiss Army Knife of Network Security Tools for Android \
+https://portdroid.net/black-friday-2025/  
+>50% off lifetime version with code: `CYBER_2025` \
+Deal ends: 4th December
 
 -----------------------------------------------------------------------------------------
 
