@@ -56,6 +56,11 @@ https://www.practical-devsecops.com/black-friday/ \
 (Enroll Now and Study Later) \
 Deal ends: 7th December 2025
 
+**Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
+https://classes.pracnet.net/courses/practical-tls \
+80%+ off course price, originaly $297, now only $47
+(Enroll Now and Study Later - pay once, lifetime access)
+Deal ends: 7th December 2025
 
 ## Tools
 
