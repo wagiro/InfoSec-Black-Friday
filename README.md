@@ -50,6 +50,41 @@ https://www.practical-devsecops.com/certified-ai-security-professional \
 (Enroll Now and Study Later) \
 Deal ends: 7th December 2025
 
+**Balkasoft** - DFIR and Mobile Forensics Training \
+https://belkasoft.com/training-bundles \
+33% off on course bundles (save $999), applied automatically
+
+**Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
+https://academy.bluraven.io/blackfriday2025 \
+35% off with code: BFCM25 \
+
+**DNS for Developers** - Everything developers should know about DNS. \
+https://nslookup.io/dns-course/ \
+66% off the course and certification \
+
+**HackTricks Training** \
+https://training.hacktricks.xyz \
+-20% on all courses, -15% on labs & exams and extra -10% on course bundles (auto-applied) \
+Deal ends: 30th November 2025
+
+**Hexordia** - DFIR Virtual Live training \
+https://learn.hexordia.com/ \
+30% off all courses with code: BF35  \
+Deal ends: 2nd December
+
+**LetsDefend** - Blue Team Training
+https://app.letsdefend.io/pricing/ \
+50% off on annual plans \
+
+**OPSWAT** - Critical Infrastructure security courses \
+https://opswatacademy.com/courses \
+**41% - 50% off on various courses, recommend to buy bundles instead:** \
+Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle \
+85% off (US$99 instead of US$660) applied automatically \
+OT Security Expert: https://opswatacademy.com/courses/ot-security-expert \
+92% off (US$79 instead of US$1,000) applied automatically
+
+
 **Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
 https://www.practical-devsecops.com/black-friday/ \
 15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
@@ -62,6 +97,42 @@ Deal ends: 7th December 2025
 comeback60 60% off  
 Deal valid Till 31 December 2025
 
+**TCM Academy** - Blue & Red Cyber Security Training and Certifications \
+Certifications: https://certifications.tcm-sec.com/ \
+Academy: https://academy.tcm-sec.com/ \
+20% off of all certifications and live training (NO COUPON REQUIRED) \
+50% off of any All Access Membership with code (NO COUPON REQUIRED) \
+Deal ends: 1st December 2025
+
+**Vantage Point (Enciphers)** \
+https://vantagepoint.enciphers.com/  \
+70% off on all labs, certifications (NO COUPON REQUIRED)
+
+## Exams
+
+**The SecOps Group** - Pentesting Exams \
+https://pentestingexams.com/ \
+80% off on all pentesting exams. Use code: BF-80 \
+Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
+
+## Books
+
+**The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
+https://engineer.cloudsecbooks.com/ \
+40% off with code: CYBERNOVEMBER25 \
+
+## Hardware
+
+**Hak5** - Pentester / Red Teamer Hardware Equipment and Tools \
+https://shop.hak5.org/collections/bfcm \
+Up to 58% off, stackable savings, various items!! Do not forget stackable code: H4K3DNOV25
+
+**KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices \
+https://labs.ksec.co.uk/black-friday-sale/ \
+10% off storewide with code: BF25-MEGA10 \
+5% Off Non-Sale Hak5 Items with code: BF25HAK5 \
+Deal valid: 24th - 30th November
+
 ## Tools
 
 **FullStro** - P A Multi-Channel Ecommerce Automation :see_no_evil: :new: \
@@ -73,6 +144,13 @@ Deal valid: 16th November - 6rd December
 https://portdroid.net/black-friday-2025/  
 >50% off lifetime version with code: `CYBER_2025` \
 Deal ends: 4th December
+
+**Proton Mail/VPN/Pass/Drive** - Encrypted Services \
+https://proton.me/black-friday \
+38% off Lumo AI
+50% off Mail, Drive or Proton Unlimited
+60% off Pass
+70% off VPN
 
 ## Services:
 
