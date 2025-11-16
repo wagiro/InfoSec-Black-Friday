@@ -70,6 +70,13 @@ http://fullstro.com/black-friday-deals/
 Deal valid: 16th November - 6rd December
 
 
+## Services:
+
+**AirVPN** -  Save up to 74% when compared to one month plan price  \
+https://airvpn.org/forums/topic/77311-2025-black-friday-sale  \
+Use code `BLACKFRIDAY2025` \
+Deal valid: 14th November - 3rd December
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
