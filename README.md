@@ -57,6 +57,11 @@ https://www.practical-devsecops.com/black-friday/ \
 Deal ends: 7th December 2025
 
 
+**Pluralsight** – Online Tech Learning Platform \
+[https://www.pluralsight.com/](https://www.pluralsight.com/)  
+comeback60 60% off  
+Deal valid Till 31 December 2025
+
 ## Tools
 
 **FullStro** - P A Multi-Channel Ecommerce Automation :see_no_evil: :new: \
