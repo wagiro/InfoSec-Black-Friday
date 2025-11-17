@@ -84,6 +84,10 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert \
 92% off (US$79 instead of US$1,000) applied automatically
 
+**pwn.guide** - Helping both beginners & experts learn cybersecurity with 150+ tutorials & certification training \
+https://pwn.guide/  
+20% off all plans (including LIFETIME!) with code: `BLKFRI20` \
+Deal ends: 5th December
 
 **Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
 https://www.practical-devsecops.com/black-friday/ \
