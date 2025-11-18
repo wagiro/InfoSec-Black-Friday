@@ -176,6 +176,14 @@ https://labs.ksec.co.uk/black-friday-sale/ \
 Deal valid: 24th - 30th November
 
 
+## Professional Services
+
+**Wortell** - Offensive solutions including penetration testing. \
+http://wortell.nl
+50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
+Deal ends: 20th December 2025
+
+
 
 ## Tools
 
