@@ -134,6 +134,11 @@ https://www.alteredsecurity.com/
 No coupon code required \
 Deal ends: 17th December 2025
 
+**Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
+https://www.practical-devsecops.com/black-friday/  
+15% off all Certifications \
+Deal ends: 18th NovemberDecember (maybe diffrent offers)
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
