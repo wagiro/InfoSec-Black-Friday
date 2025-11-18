@@ -117,6 +117,11 @@ Deal ends: 1st December 2025
 https://vantagepoint.enciphers.com/  \
 70% off on all labs, certifications (NO COUPON REQUIRED)
 
+CyberWarFare Labs
+https://cyberwarfare.live/
+Up to 90% off
+Deal ends: 30th November
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
