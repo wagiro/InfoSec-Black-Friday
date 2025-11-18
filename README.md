@@ -201,6 +201,11 @@ https://seoengine.ai \
 35% OFF with code `BLACKFRIDAY` \
 Deal valid: Nov 17 - Dec 7
 
+**HTTP Toolkit** - Open-source HTTP proxy, debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more \
+[httptoolkit.com](https://httptoolkit.com/?ref=wwwiesel) \
+50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
+Deal ends: 3rd December
+
 ## Services:
 
 **AirVPN** -  Save up to 74% when compared to one month plan price  \
