@@ -126,6 +126,13 @@ Deal ends: 30th November
 https://academy.bluraven.io/blackfriday2025 \
 35% off with code: BFCM25
 
+**Altered Security** - Online Security Training Labs \
+https://www.alteredsecurity.com/  
+20% off all courses and bootcamps in Q1 & Q2 2026 \
+25% off when you purchase more than one course \
+10% off on AltSecCON 2025 \
+No coupon code required \
+Deal ends: 17th December 2025
 
 ## Exams
 
