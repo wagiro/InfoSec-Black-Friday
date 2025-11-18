@@ -139,6 +139,22 @@ https://www.practical-devsecops.com/black-friday/
 15% off all Certifications \
 Deal ends: 18th NovemberDecember (maybe diffrent offers)
 
+**TheXero** - Premium Offensive Cybersecurity Training  \
+https://training.thexero.co.uk/  
+Safe 65% on Wireless Mastery + BONUS \
+Offer valid until 2nd December
+
+**HackTricks Training** \
+https://training.hacktricks.xyz  
+-20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
+-15% off on Labs & Exams
+Deal valid until 30th November 2025
+
+**Hexordia** - DFIR Virtual Live training \
+https://learn.hexordia.com/  
+35% off all courses, applied with code `BF35` \
+Deal ends: 2nd December
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
@@ -163,6 +179,8 @@ https://labs.ksec.co.uk/black-friday-sale/ \
 10% off storewide with code: BF25-MEGA10 \
 5% Off Non-Sale Hak5 Items with code: BF25HAK5 \
 Deal valid: 24th - 30th November
+
+
 
 ## Tools
 
