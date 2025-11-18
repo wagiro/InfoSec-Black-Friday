@@ -150,11 +150,6 @@ https://training.hacktricks.xyz
 -15% off on Labs & Exams
 Deal valid until 30th November 2025
 
-**Hexordia** - DFIR Virtual Live training \
-https://learn.hexordia.com/  
-35% off all courses, applied with code `BF35` \
-Deal ends: 2nd December
-
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
