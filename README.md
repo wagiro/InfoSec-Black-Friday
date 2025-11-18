@@ -56,11 +56,11 @@ https://belkasoft.com/training-bundles \
 
 **Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
 https://academy.bluraven.io/blackfriday2025 \
-35% off with code: BFCM25 \
+35% off with code: BFCM25 
 
 **DNS for Developers** - Everything developers should know about DNS. \
 https://nslookup.io/dns-course/ \
-66% off the course and certification \
+66% off the course and certification 
 
 **HackTricks Training** \
 https://training.hacktricks.xyz \
@@ -74,7 +74,7 @@ Deal ends: 2nd December
 
 **LetsDefend** - Blue Team Training
 https://app.letsdefend.io/pricing/ \
-50% off on annual plans \
+50% off on annual plans 
 
 **OPSWAT** - Critical Infrastructure security courses \
 https://opswatacademy.com/courses \
@@ -117,10 +117,15 @@ Deal ends: 1st December 2025
 https://vantagepoint.enciphers.com/  \
 70% off on all labs, certifications (NO COUPON REQUIRED)
 
-CyberWarFare Labs
-https://cyberwarfare.live/
-Up to 90% off
+**CyberWarFare Labs** \
+https://cyberwarfare.live/ \
+Up to 90% off \
 Deal ends: 30th November
+
+**Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
+https://academy.bluraven.io/blackfriday2025 \
+35% off with code: BFCM25
+
 
 ## Exams
 
@@ -133,7 +138,7 @@ Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
 
 **The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
 https://engineer.cloudsecbooks.com/ \
-40% off with code: CYBERNOVEMBER25 \
+40% off with code: CYBERNOVEMBER25 
 
 ## Hardware
 
