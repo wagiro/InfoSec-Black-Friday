@@ -44,6 +44,12 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
+**SOC ANALYST - CYBERSECURITY BEGINNERS**, Accessible and Affordable Q-Model Platform, currently 14 (two more in the pipeline) courses with hands-on projects, labs and cyberange.
+Homepage: https://www.cybernoweducation.com/
+$60 LIFETIME Membership, use code BlackFriday at https://www.cybernoweducation.com/upgrade
+If you complete **10+** courses we will ship you a custom-made _plaque_ with your name on it!
+Deal ends: December 1st, 2025
+
 **AI Security - Professional Course**, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more \
 https://www.practical-devsecops.com/certified-ai-security-professional \
 15% off ($150 USD), auto-applied at checkout \
