@@ -250,6 +250,16 @@ https://websitevoice.com/
 20% off on all plans, with code `VOICE20` \
 Deal ends: 4th December
 
+**Burp Bounty Pro** - Web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments significantly reducing your audit time while expanding overall coverage. \
+https://bountysecurity.ai
+40% off on annual plans \
+Deal ends: 2th December
+
+**Burp Bounty Go** - High-performance vulnerability scanner developed with Golang microservices. It brings modern offensive security to the next level by enabling high-speed, distributed scanning beyond Burp Suite's native capabilities. \
+https://bountysecurity.ai
+40% off on annual plans \
+Deal ends: 2th December
+
 ## Services:
 
 **AirVPN** -  Save up to 74% when compared to one month plan price  \
