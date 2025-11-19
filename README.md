@@ -73,6 +73,16 @@ https://training.hacktricks.xyz \
 -20% on all courses, -15% on labs & exams and extra -10% on course bundles (auto-applied) \
 Deal ends: 30th November 2025
 
+**Invictus Incident Response Training** \
+https://academy.invictus-ir.com \
+-20% on all courses \
+Deal ends: 5th December
+
+**Invictus Incident Response Training** \
+https://cloudlabs.invictus-ir.com \
+-20% on Premium Tier \
+Deal ends: 5th December
+
 **Hexordia** - DFIR Virtual Live training \
 https://learn.hexordia.com/ \
 30% off all courses with code: BF35  \
