@@ -225,6 +225,16 @@ Deal valid: Nov 17 - Dec 7
 50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
 Deal ends: 3rd December
 
+**SubtitleBee** - AI-powered subtitle generator, translator, and transcriber with support for 120+ languages \
+[SubtitleBee BFCM Deal](https://subtitlebee.com/#pricing) \
+20% off on monthly plans and up to 32% off on annual subscriptions, with code `BEE20` \
+Deal ends: 4th December
+
+**WebsiteVoice** - A simple, but powerful text-to-speech solution to turn website content into speech \
+https://websitevoice.com/ 
+20% off on all plans, with code `VOICE20` \
+Deal ends: 4th December
+
 ## Services:
 
 **AirVPN** -  Save up to 74% when compared to one month plan price  \
