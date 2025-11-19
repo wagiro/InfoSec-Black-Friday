@@ -246,6 +246,10 @@ https://nordvpn.com/pricing
 62% off Legend Plan, applied automatically \
 Deal valid:  17th November – 1th Decembe
 
+**CyberGhost VPN** \
+https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
+83% off VPN 2 Years Plan + 4 months free
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
