@@ -250,6 +250,10 @@ Deal valid:  17th November – 1th Decembe
 https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
 83% off VPN 2 Years Plan + 4 months free
 
+**IP VANISH VPN** \
+https://www.ipvanish.com/pricing/  
+up to 83% off
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
