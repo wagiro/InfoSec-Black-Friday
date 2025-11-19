@@ -232,6 +232,11 @@ https://airvpn.org/forums/topic/77311-2025-black-friday-sale  \
 Use code `BLACKFRIDAY2025` \
 Deal valid: 14th November - 3rd December
 
+**Proton Mail/VPN/Pass/Drive** - Encrypted Services \
+[https://proton.me/mail/black-friday](https://proton.me/black-friday)
+Save up to 70%
+Deal valid: ?
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
