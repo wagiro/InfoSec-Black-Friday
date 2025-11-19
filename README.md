@@ -237,6 +237,10 @@ Deal valid: 14th November - 3rd December
 Save up to 70%
 Deal valid: ?
 
+**NordVPN** \
+https://nordvpn.com/pricing  
+74%% off (+ 3 month extra)
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
