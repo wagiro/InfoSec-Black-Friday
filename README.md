@@ -156,6 +156,11 @@ https://training.hacktricks.xyz
 -15% off on Labs & Exams
 Deal valid until 30th November 2025
 
+**CloudBreach** - Advanced Offensive Azure & AWS Security Trainings and Certifications  :see_no_evil: \
+https://cloudbreach.io/blackfriday/ \
+20% off with code: `BlackFriday25` \
+Deal valid: 21nd November - 8th December
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
