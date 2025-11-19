@@ -1,5 +1,5 @@
 
-# InfoSec Black Friday Deals ~ "Honor of 0x90n" 2025 Edition
+# InfoSec Black Friday Deals ~ "In Honor of 0x90n" 2025 Edition
 
 ## This is a fork of 0x90n’s work. I hope he is doing well — therefore I am continuing his text here.
 
@@ -44,93 +44,11 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
-**SOC ANALYST - CYBERSECURITY BEGINNERS**, Accessible and Affordable Q-Model Platform, currently 14 (two more in the pipeline) courses with hands-on projects, labs and cyberange.
-Homepage: https://www.cybernoweducation.com/
-$60 LIFETIME Membership, use code BlackFriday at https://www.cybernoweducation.com/upgrade
-If you complete **10+** courses we will ship you a custom-made _plaque_ with your name on it!
-Deal ends: December 1st, 2025
-
 **AI Security - Professional Course**, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more \
-https://www.practical-devsecops.com/certified-ai-security-professional \
+https://www.practical-devsecops.com/certified-ai-security-professional  
 15% off ($150 USD), auto-applied at checkout \
 (Enroll Now and Study Later) \
-Deal ends: 7th December 2025
-
-**Balkasoft** - DFIR and Mobile Forensics Training \
-https://belkasoft.com/training-bundles \
-33% off on course bundles (save $999), applied automatically
-
-**Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
-https://academy.bluraven.io/blackfriday2025 \
-35% off with code: BFCM25 
-
-**DNS for Developers** - Everything developers should know about DNS. \
-https://nslookup.io/dns-course/ \
-66% off the course and certification 
-
-**HackTricks Training** \
-https://training.hacktricks.xyz \
--20% on all courses, -15% on labs & exams and extra -10% on course bundles (auto-applied) \
-Deal ends: 30th November 2025
-
-**Hexordia** - DFIR Virtual Live training \
-https://learn.hexordia.com/ \
-30% off all courses with code: BF35  \
-Deal ends: 2nd December
-
-**LetsDefend** - Blue Team Training
-https://app.letsdefend.io/pricing/ \
-50% off on annual plans 
-
-**OPSWAT** - Critical Infrastructure security courses \
-https://opswatacademy.com/courses \
-**41% - 50% off on various courses, recommend to buy bundles instead:** \
-Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle \
-85% off (US$99 instead of US$660) applied automatically \
-OT Security Expert: https://opswatacademy.com/courses/ot-security-expert \
-92% off (US$79 instead of US$1,000) applied automatically
-
-**pwn.guide** - Helping both beginners & experts learn cybersecurity with 150+ tutorials & certification training \
-https://pwn.guide/  
-20% off all plans (including LIFETIME!) with code: `BLKFRI20` \
-Deal ends: 5th December
-
-**Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
-https://www.practical-devsecops.com/black-friday/ \
-15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
-(Enroll Now and Study Later) \
-Deal ends: 7th December 2025
-
-**Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
-https://classes.pracnet.net/courses/practical-tls \
-80%+ off course price, originaly $297, now only $50 with code `BFCM2025` \
-(Enroll Now and Study Later - pay once, lifetime access) \
-Deal ends: 7th December 2025
-
-**Pluralsight** – Online Tech Learning Platform \
-[https://www.pluralsight.com/](https://www.pluralsight.com/)  
-comeback60 60% off  
-Deal valid Till 31 December 2025
-
-**TCM Academy** - Blue & Red Cyber Security Training and Certifications \
-Certifications: https://certifications.tcm-sec.com/ \
-Academy: https://academy.tcm-sec.com/ \
-20% off of all certifications and live training (NO COUPON REQUIRED) \
-50% off of any All Access Membership with code (NO COUPON REQUIRED) \
-Deal ends: 1st December 2025
-
-**Vantage Point (Enciphers)** \
-https://vantagepoint.enciphers.com/  \
-70% off on all labs, certifications (NO COUPON REQUIRED)
-
-**CyberWarFare Labs** \
-https://cyberwarfare.live/ \
-Up to 90% off \
-Deal ends: 30th November
-
-**Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
-https://academy.bluraven.io/blackfriday2025 \
-35% off with code: BFCM25
+Deal ends: 7th December 2025 \
 
 **Altered Security** - Online Security Training Labs \
 https://www.alteredsecurity.com/  
@@ -138,28 +56,107 @@ https://www.alteredsecurity.com/
 25% off when you purchase more than one course \
 10% off on AltSecCON 2025 \
 No coupon code required \
-Deal ends: 17th December 2025
+Deal ends: 17th December 2025 \
 
-**Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
-https://www.practical-devsecops.com/black-friday/  
-15% off all Certifications \
-Deal ends: 18th NovemberDecember (maybe diffrent offers)
+**Balkasoft** - DFIR and Mobile Forensics Training \
+https://belkasoft.com/training-bundles  
+33% off on course bundles (save $999), applied automatically \
 
-**TheXero** - Premium Offensive Cybersecurity Training  \
-https://training.thexero.co.uk/  
-Safe 65% on Wireless Mastery + BONUS \
-Offer valid until 2nd December
+**Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
+https://academy.bluraven.io/blackfriday2025  
+35% off with code: `BFCM25` \
+
+**CloudBreach** - Advanced Offensive Azure & AWS Security Trainings and Certifications \
+https://cloudbreach.io/blackfriday/  
+20% off with code: `BlackFriday25` \
+Deal valid: 21nd November - 8th December \
+
+**CyberWarFare Labs** \
+https://cyberwarfare.live/  
+Up to 90% off \
+Deal ends: 30th November \
+
+**DNS for Developers** - Everything developers should know about DNS. \
+https://nslookup.io/dns-course/  
+66% off the course and certification \
+
+**Hack The Box – Pro Labs annual subscription** \
+https://www.hackthebox.com/blog/New-pro-labs-discount  
+25% off Pro Labs annual subscription with code: `novprolabsannual25off` \
+Deal valid until 30 November 2025, 23:59 EET \
 
 **HackTricks Training** \
 https://training.hacktricks.xyz  
--20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
--15% off on Labs & Exams
-Deal valid until 30th November 2025
+-20% on all courses & -30% on course bundles (the discounts are applied automatically on the website) \
+-15% off on Labs & Exams \
+Deal valid until 30th November 2025 \
 
-**CloudBreach** - Advanced Offensive Azure & AWS Security Trainings and Certifications  :see_no_evil: \
-https://cloudbreach.io/blackfriday/ \
-20% off with code: `BlackFriday25` \
-Deal valid: 21nd November - 8th December
+**Hexordia** - DFIR Virtual Live training \
+https://learn.hexordia.com/  
+30% off all courses with code: `BF35` \
+Deal ends: 2nd December \
+
+**LetsDefend** - Blue Team Training \
+https://app.letsdefend.io/pricing/  
+50% off on annual plans \
+
+**OffSec – Learn One subscription promo** \
+https://www.offsec.com/blog/learn-one-promo/  
+Save 20% (up to $550 off) on the Learn One annual subscription; discount is automatically applied at checkout, no code required \
+Limited-time end-of-year promotion; best price of the year on Learn One with 365 days of access, one 200/300-level course, two exam attempts, and 200+ Proving Grounds Practice labs \
+
+**OPSWAT** - Critical Infrastructure security courses \
+https://opswatacademy.com/courses  
+**41% - 50% off on various courses, recommend to buy bundles instead:** \
+Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle  
+85% off (US$99 instead of US$660) applied automatically \
+OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
+92% off (US$79 instead of US$1,000) applied automatically \
+
+**Pluralsight** – Online Tech Learning Platform \
+https://www.pluralsight.com/  
+`comeback60` 60% off \
+Deal valid till 31 December 2025 \
+
+**Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
+https://www.practical-devsecops.com/black-friday/  
+15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
+(Enroll Now and Study Later) \
+Deal ends: 7th December 2025 \
+
+**Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
+https://classes.pracnet.net/courses/practical-tls  
+80%+ off course price, originally $297, now only $50 with code `BFCM2025` \
+(Enroll Now and Study Later - pay once, lifetime access) \
+Deal ends: 7th December 2025 \
+
+**pwn.guide** - Helping both beginners & experts learn cybersecurity with 150+ tutorials & certification training \
+https://pwn.guide/  
+20% off all plans (including LIFETIME!) with code: `BLKFRI20` \
+Deal ends: 5th December \
+
+**SOC ANALYST - CYBERSECURITY BEGINNERS**, Accessible and Affordable Q-Model Platform, currently 14 (two more in the pipeline) courses with hands-on projects, labs and cyberange. \
+https://www.cybernoweducation.com/  
+$60 LIFETIME Membership, use code `BlackFriday` at https://www.cybernoweducation.com/upgrade \
+If you complete **10+** courses we will ship you a custom-made _plaque_ with your name on it! \
+Deal ends: December 1st, 2025 \
+
+**TCM Academy** - Blue & Red Cyber Security Training and Certifications \
+Certifications: https://certifications.tcm-sec.com/  
+Academy: https://academy.tcm-sec.com/  
+20% off of all certifications and live training (NO COUPON REQUIRED) \
+50% off of any All Access Membership with code (NO COUPON REQUIRED) \
+Deal ends: 1st December 2025 \
+
+**TheXero** - Premium Offensive Cybersecurity Training  \
+https://training.thexero.co.uk/  
+Save 65% on Wireless Mastery + BONUS \
+Offer valid until 2nd December \
+
+**Vantage Point (Enciphers)** \
+https://vantagepoint.enciphers.com/  
+70% off on all labs, certifications (NO COUPON REQUIRED) \
+
 
 ## Exams
 
