@@ -241,6 +241,11 @@ Deal valid: ?
 https://nordvpn.com/pricing  
 74%% off (+ 3 month extra)
 
+**Tuta Mail – Encrypted Email Service** \
+[https://tuta.com/blog/black-weeks-at-tuta  ](https://tuta.com/blog/black-weeks-at-tuta)
+62% off Legend Plan, applied automatically \
+Deal valid:  17th November – 1th Decembe
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
