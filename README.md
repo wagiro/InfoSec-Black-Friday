@@ -232,6 +232,13 @@ https://airvpn.org/forums/topic/77311-2025-black-friday-sale  \
 Use code `BLACKFRIDAY2025` \
 Deal valid: 14th November - 3rd December
 
+## Misc: 
+
+**Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
+https://neatstickersco.etsy.com/  
+15% off all stickers or merch \
+Deal Ends: 13th December
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
