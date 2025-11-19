@@ -39,7 +39,6 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 *Disclaimer: No affiliate links. I have included my own, paid and other discount codes sent in directly by DM/Pigeon/Smoke signals.
 
-
 -----------------------------------------------------------------------------------------
 
 ## Online Courses & Training
@@ -85,6 +84,12 @@ https://www.hackthebox.com/blog/New-pro-labs-discount
 25% off Pro Labs annual subscription with code: `novprolabsannual25off` \
 Deal valid until 30 November 2025, 23:59 EET \
 
+**HackSmarter** - Hands-on cybersecurity labs and training platform \
+https://hacksmarter.org/  
+All Access subscription: $16.99/month (43% discount), includes all courses, labs, and “Hack with Me” content; upcoming Web App Pentesting course in February included \
+Hands-On Labs subscription: $6.99/month (22% discount), unlocks all labs (Windows, Linux, Active Directory) with new labs released weekly \
+All individual courses are also discounted for one-time lifetime access (no subscription required); see site for full discount details \
+
 **HackTricks Training** \
 https://training.hacktricks.xyz  
 -20% on all courses & -30% on course bundles (the discounts are applied automatically on the website) \
@@ -95,6 +100,16 @@ Deal valid until 30th November 2025 \
 https://learn.hexordia.com/  
 30% off all courses with code: `BF35` \
 Deal ends: 2nd December \
+
+**Invictus Incident Response Training** \
+https://academy.invictus-ir.com  
+20% off on all courses \
+Deal ends: 5th December \
+
+**Invictus Incident Response Training** \
+https://cloudlabs.invictus-ir.com  
+20% off on Premium Tier \
+Deal ends: 5th December \
 
 **LetsDefend** - Blue Team Training \
 https://app.letsdefend.io/pricing/  
@@ -157,6 +172,10 @@ Offer valid until 2nd December \
 https://vantagepoint.enciphers.com/  
 70% off on all labs, certifications (NO COUPON REQUIRED) \
 
+**White Knight Labs** - On-demand and live red team & offensive security training \
+https://training.whiteknightlabs.com/  
+Black Friday sale: 50% off all training and certification courses; lifetime access to purchased content, discount applied automatically at checkout \
+Source: https://www.linkedin.com/posts/white-knight-labs_this-black-friday-were-not-just-running-activity-7396887666300198912-tfn0 
 
 ## Exams
 
@@ -182,7 +201,6 @@ https://labs.ksec.co.uk/black-friday-sale/ \
 10% off storewide with code: BF25-MEGA10 \
 5% Off Non-Sale Hak5 Items with code: BF25HAK5 \
 Deal valid: 24th - 30th November
-
 
 ## Professional Services
 
@@ -221,6 +239,16 @@ Deal valid: Nov 17 - Dec 7
 [httptoolkit.com](https://httptoolkit.com/?ref=wwwiesel) \
 50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
 Deal ends: 3rd December
+
+**SubtitleBee** - AI-powered subtitle generator, translator, and transcriber with support for 120+ languages \
+[SubtitleBee BFCM Deal](https://subtitlebee.com/#pricing) \
+20% off on monthly plans and up to 32% off on annual subscriptions, with code `BEE20` \
+Deal ends: 4th December
+
+**WebsiteVoice** - A simple, but powerful text-to-speech solution to turn website content into speech \
+https://websitevoice.com/ 
+20% off on all plans, with code `VOICE20` \
+Deal ends: 4th December
 
 ## Services:
 
